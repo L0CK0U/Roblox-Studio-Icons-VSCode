@@ -1,0 +1,1066 @@
+{
+    "iconDefinitions": {
+        "_accessory": {
+            "iconPath": "icons/legacy/Accessory.png"
+        },
+        "_actor": {
+            "iconPath": "icons/legacy/Actor.png"
+        },
+        "_adgui": {
+            "iconPath": "icons/legacy/AdGui.png"
+        },
+        "_adportal": {
+            "iconPath": "icons/legacy/AdPortal.png"
+        },
+        "_aircontroller": {
+            "iconPath": "icons/legacy/AirController.png"
+        },
+        "_alignorientation": {
+            "iconPath": "icons/legacy/AlignOrientation.png"
+        },
+        "_angularvelocity": {
+            "iconPath": "icons/legacy/AngularVelocity.png"
+        },
+        "_animation": {
+            "iconPath": "icons/legacy/Animation.png"
+        },
+        "_animationconstraint": {
+            "iconPath": "icons/legacy/AnimationConstraint.png"
+        },
+        "_animationcontroller": {
+            "iconPath": "icons/legacy/AnimationController.png"
+        },
+        "_animationfromvideocreatorservice": {
+            "iconPath": "icons/legacy/AnimationFromVideoCreatorService.png"
+        },
+        "_animator": {
+            "iconPath": "icons/legacy/Animator.png"
+        },
+        "_archandles": {
+            "iconPath": "icons/legacy/ArcHandles.png"
+        },
+        "_atmosphere": {
+            "iconPath": "icons/legacy/Atmosphere.png"
+        },
+        "_attachment": {
+            "iconPath": "icons/legacy/Attachment.png"
+        },
+        "_audioanalyzer": {
+            "iconPath": "icons/legacy/AudioAnalyzer.png"
+        },
+        "_audiochorus": {
+            "iconPath": "icons/legacy/AudioChorus.png"
+        },
+        "_audiocompressor": {
+            "iconPath": "icons/legacy/AudioCompressor.png"
+        },
+        "_audiodeviceinput": {
+            "iconPath": "icons/legacy/AudioDeviceInput.png"
+        },
+        "_audiodeviceoutput": {
+            "iconPath": "icons/legacy/AudioDeviceOutput.png"
+        },
+        "_audiodistortion": {
+            "iconPath": "icons/legacy/AudioDistortion.png"
+        },
+        "_audioecho": {
+            "iconPath": "icons/legacy/AudioEcho.png"
+        },
+        "_audioemitter": {
+            "iconPath": "icons/legacy/AudioEmitter.png"
+        },
+        "_audioequalizer": {
+            "iconPath": "icons/legacy/AudioEqualizer.png"
+        },
+        "_audiofader": {
+            "iconPath": "icons/legacy/AudioFader.png"
+        },
+        "_audioflanger": {
+            "iconPath": "icons/legacy/AudioFlanger.png"
+        },
+        "_audiolistener": {
+            "iconPath": "icons/legacy/AudioListener.png"
+        },
+        "_audiopitchshifter": {
+            "iconPath": "icons/legacy/AudioPitchShifter.png"
+        },
+        "_audioplayer": {
+            "iconPath": "icons/legacy/AudioPlayer.png"
+        },
+        "_audioreverb": {
+            "iconPath": "icons/legacy/AudioReverb.png"
+        },
+        "_avatareditorservice": {
+            "iconPath": "icons/legacy/AvatarEditorService.png"
+        },
+        "_backpack": {
+            "iconPath": "icons/legacy/Backpack.png"
+        },
+        "_ballsocketconstraint": {
+            "iconPath": "icons/legacy/BallSocketConstraint.png"
+        },
+        "_baseplate": {
+            "iconPath": "icons/legacy/Baseplate.png"
+        },
+        "_beam": {
+            "iconPath": "icons/legacy/Beam.png"
+        },
+        "_billboardgui": {
+            "iconPath": "icons/legacy/BillboardGui.png"
+        },
+        "_bindableevent": {
+            "iconPath": "icons/legacy/BindableEvent.png"
+        },
+        "_bindablefunction": {
+            "iconPath": "icons/legacy/BindableFunction.png"
+        },
+        "_blockmesh": {
+            "iconPath": "icons/legacy/BlockMesh.png"
+        },
+        "_bloomeffect": {
+            "iconPath": "icons/legacy/BloomEffect.png"
+        },
+        "_blureffect": {
+            "iconPath": "icons/legacy/BlurEffect.png"
+        },
+        "_bodyangularvelocity": {
+            "iconPath": "icons/legacy/BodyAngularVelocity.png"
+        },
+        "_bodycolors": {
+            "iconPath": "icons/legacy/BodyColors.png"
+        },
+        "_bodyforce": {
+            "iconPath": "icons/legacy/BodyForce.png"
+        },
+        "_bodygyro": {
+            "iconPath": "icons/legacy/BodyGyro.png"
+        },
+        "_bodyposition": {
+            "iconPath": "icons/legacy/BodyPosition.png"
+        },
+        "_bodythrust": {
+            "iconPath": "icons/legacy/BodyThrust.png"
+        },
+        "_bodyvelocity": {
+            "iconPath": "icons/legacy/BodyVelocity.png"
+        },
+        "_bone": {
+            "iconPath": "icons/legacy/Bone.png"
+        },
+        "_boolvalue": {
+            "iconPath": "icons/legacy/BoolValue.png"
+        },
+        "_boxhandleadornment": {
+            "iconPath": "icons/legacy/BoxHandleAdornment.png"
+        },
+        "_breakpoint": {
+            "iconPath": "icons/legacy/BreakPoint.png"
+        },
+        "_brickcolorvalue": {
+            "iconPath": "icons/legacy/BrickColorValue.png"
+        },
+        "_bubblechatconfiguration": {
+            "iconPath": "icons/legacy/BubbleChatConfiguration.png"
+        },
+        "_buggaroo": {
+            "iconPath": "icons/legacy/Buggaroo.png"
+        },
+        "_camera": {
+            "iconPath": "icons/legacy/Camera.png"
+        },
+        "_canvasgroup": {
+            "iconPath": "icons/legacy/CanvasGroup.png"
+        },
+        "_cframevalue": {
+            "iconPath": "icons/legacy/CFrameValue.png"
+        },
+        "_charactercontrollermanager": {
+            "iconPath": "icons/legacy/CharacterControllerManager.png"
+        },
+        "_charactermesh": {
+            "iconPath": "icons/legacy/CharacterMesh.png"
+        },
+        "_chat": {
+            "iconPath": "icons/legacy/Chat.png"
+        },
+        "_chatinputbarconfiguration": {
+            "iconPath": "icons/legacy/ChatInputBarConfiguration.png"
+        },
+        "_chatwindowconfiguration": {
+            "iconPath": "icons/legacy/ChatWindowConfiguration.png"
+        },
+        "_chorussoundeffect": {
+            "iconPath": "icons/legacy/ChorusSoundEffect.png"
+        },
+        "_class": {
+            "iconPath": "icons/legacy/Class.png"
+        },
+        "_clickdetector": {
+            "iconPath": "icons/legacy/ClickDetector.png"
+        },
+        "_clientreplicator": {
+            "iconPath": "icons/legacy/ClientReplicator.png"
+        },
+        "_climbcontroller": {
+            "iconPath": "icons/legacy/ClimbController.png"
+        },
+        "_clouds": {
+            "iconPath": "icons/legacy/Clouds.png"
+        },
+        "_color": {
+            "iconPath": "icons/legacy/Color.png"
+        },
+        "_colorcorrectioneffect": {
+            "iconPath": "icons/legacy/ColorCorrectionEffect.png"
+        },
+        "_compressorsoundeffect": {
+            "iconPath": "icons/legacy/CompressorSoundEffect.png"
+        },
+        "_conehandleadornment": {
+            "iconPath": "icons/legacy/ConeHandleAdornment.png"
+        },
+        "_configuration": {
+            "iconPath": "icons/legacy/Configuration.png"
+        },
+        "_constant": {
+            "iconPath": "icons/legacy/Constant.png"
+        },
+        "_constructor": {
+            "iconPath": "icons/legacy/Constructor.png"
+        },
+        "_coregui": {
+            "iconPath": "icons/legacy/CoreGui.png"
+        },
+        "_cornerwedgepart": {
+            "iconPath": "icons/legacy/CornerWedgePart.png"
+        },
+        "_cylinderhandleadornment": {
+            "iconPath": "icons/legacy/CylinderHandleAdornment.png"
+        },
+        "_cylindricalconstraint": {
+            "iconPath": "icons/legacy/CylindricalConstraint.png"
+        },
+        "_decal": {
+            "iconPath": "icons/legacy/Decal.png"
+        },
+        "_depthoffieldeffect": {
+            "iconPath": "icons/legacy/DepthOfFieldEffect.png"
+        },
+        "_dialog": {
+            "iconPath": "icons/legacy/Dialog.png"
+        },
+        "_dialogchoice": {
+            "iconPath": "icons/legacy/DialogChoice.png"
+        },
+        "_distortionsoundeffect": {
+            "iconPath": "icons/legacy/DistortionSoundEffect.png"
+        },
+        "_dragdetector": {
+            "iconPath": "icons/legacy/DragDetector.png"
+        },
+        "_echosoundeffect": {
+            "iconPath": "icons/legacy/EchoSoundEffect.png"
+        },
+        "_editableimage": {
+            "iconPath": "icons/legacy/EditableImage.png"
+        },
+        "_editablemesh": {
+            "iconPath": "icons/legacy/EditableMesh.png"
+        },
+        "_enum": {
+            "iconPath": "icons/legacy/Enum.png"
+        },
+        "_enummember": {
+            "iconPath": "icons/legacy/EnumMember.png"
+        },
+        "_equalizersoundeffect": {
+            "iconPath": "icons/legacy/EqualizerSoundEffect.png"
+        },
+        "_event": {
+            "iconPath": "icons/legacy/Event.png"
+        },
+        "_explosion": {
+            "iconPath": "icons/legacy/Explosion.png"
+        },
+        "_facecontrols": {
+            "iconPath": "icons/legacy/FaceControls.png"
+        },
+        "_field": {
+            "iconPath": "icons/legacy/Field.png"
+        },
+        "_file": {
+            "iconPath": "icons/legacy/File.png"
+        },
+        "_fire": {
+            "iconPath": "icons/legacy/Fire.png"
+        },
+        "_flangesoundeffect": {
+            "iconPath": "icons/legacy/FlangeSoundEffect.png"
+        },
+        "_folder": {
+            "iconPath": "icons/legacy/Folder.png"
+        },
+        "_forcefield": {
+            "iconPath": "icons/legacy/ForceField.png"
+        },
+        "_frame": {
+            "iconPath": "icons/legacy/Frame.png"
+        },
+        "_function": {
+            "iconPath": "icons/legacy/Function.png"
+        },
+        "_gamesettings": {
+            "iconPath": "icons/legacy/GameSettings.png"
+        },
+        "_groundcontroller": {
+            "iconPath": "icons/legacy/GroundController.png"
+        },
+        "_handles": {
+            "iconPath": "icons/legacy/Handles.png"
+        },
+        "_hapticservice": {
+            "iconPath": "icons/legacy/HapticService.png"
+        },
+        "_heightmapimporterservice": {
+            "iconPath": "icons/legacy/HeightmapImporterService.png"
+        },
+        "_highlight": {
+            "iconPath": "icons/legacy/Highlight.png"
+        },
+        "_hingeconstraint": {
+            "iconPath": "icons/legacy/HingeConstraint.png"
+        },
+        "_humanoid": {
+            "iconPath": "icons/legacy/Humanoid.png"
+        },
+        "_humanoiddescription": {
+            "iconPath": "icons/legacy/HumanoidDescription.png"
+        },
+        "_ikcontrol": {
+            "iconPath": "icons/legacy/IKControl.png"
+        },
+        "_imagebutton": {
+            "iconPath": "icons/legacy/ImageButton.png"
+        },
+        "_imagehandleadornment": {
+            "iconPath": "icons/legacy/ImageHandleAdornment.png"
+        },
+        "_imagelabel": {
+            "iconPath": "icons/legacy/ImageLabel.png"
+        },
+        "_interface": {
+            "iconPath": "icons/legacy/Interface.png"
+        },
+        "_intersectoperation": {
+            "iconPath": "icons/legacy/IntersectOperation.png"
+        },
+        "_keyword": {
+            "iconPath": "icons/legacy/Keyword.png"
+        },
+        "_lighting": {
+            "iconPath": "icons/legacy/Lighting.png"
+        },
+        "_linearvelocity": {
+            "iconPath": "icons/legacy/LinearVelocity.png"
+        },
+        "_lineforce": {
+            "iconPath": "icons/legacy/LineForce.png"
+        },
+        "_linehandleadorment": {
+            "iconPath": "icons/legacy/LineHandleAdorment.png"
+        },
+        "_localfile": {
+            "iconPath": "icons/legacy/LocalFile.png"
+        },
+        "_localizationservice": {
+            "iconPath": "icons/legacy/LocalizationService.png"
+        },
+        "_localizationtable": {
+            "iconPath": "icons/legacy/LocalizationTable.png"
+        },
+        "_localscript": {
+            "iconPath": "icons/legacy/LocalScript.png"
+        },
+        "_materialservice": {
+            "iconPath": "icons/legacy/MaterialService.png"
+        },
+        "_materialvariant": {
+            "iconPath": "icons/legacy/MaterialVariant.png"
+        },
+        "_memorystoreservice": {
+            "iconPath": "icons/legacy/MemoryStoreService.png"
+        },
+        "_meshpart": {
+            "iconPath": "icons/legacy/MeshPart.png"
+        },
+        "_meshparts": {
+            "iconPath": "icons/legacy/MeshParts.png"
+        },
+        "_messagingservice": {
+            "iconPath": "icons/legacy/MessagingService.png"
+        },
+        "_method": {
+            "iconPath": "icons/legacy/Method.png"
+        },
+        "_model": {
+            "iconPath": "icons/legacy/Model.png"
+        },
+        "_modelgroups": {
+            "iconPath": "icons/legacy/ModelGroups.png"
+        },
+        "_module": {
+            "iconPath": "icons/legacy/Module.png"
+        },
+        "_modulescript": {
+            "iconPath": "icons/legacy/ModuleScript.png"
+        },
+        "_motor6d": {
+            "iconPath": "icons/legacy/Motor6D.png"
+        },
+        "_negateoperation": {
+            "iconPath": "icons/legacy/NegateOperation.png"
+        },
+        "_networkclient": {
+            "iconPath": "icons/legacy/NetworkClient.png"
+        },
+        "_nocollisionconstraint": {
+            "iconPath": "icons/legacy/NoCollisionConstraint.png"
+        },
+        "_operator": {
+            "iconPath": "icons/legacy/Operator.png"
+        },
+        "_packagelink": {
+            "iconPath": "icons/legacy/PackageLink.png"
+        },
+        "_pants": {
+            "iconPath": "icons/legacy/Pants.png"
+        },
+        "_part": {
+            "iconPath": "icons/legacy/Part.png"
+        },
+        "_particleemitter": {
+            "iconPath": "icons/legacy/ParticleEmitter.png"
+        },
+        "_pathfindinglink": {
+            "iconPath": "icons/legacy/PathfindingLink.png"
+        },
+        "_pathfindingmodifier": {
+            "iconPath": "icons/legacy/PathfindingModifier.png"
+        },
+        "_pathfindingservice": {
+            "iconPath": "icons/legacy/PathfindingService.png"
+        },
+        "_pitchshiftsoundeffect": {
+            "iconPath": "icons/legacy/PitchShiftSoundEffect.png"
+        },
+        "_place": {
+            "iconPath": "icons/legacy/Place.png"
+        },
+        "_plane": {
+            "iconPath": "icons/legacy/Plane.png"
+        },
+        "_planeconstraint": {
+            "iconPath": "icons/legacy/PlaneConstraint.png"
+        },
+        "_player": {
+            "iconPath": "icons/legacy/Player.png"
+        },
+        "_players": {
+            "iconPath": "icons/legacy/Players.png"
+        },
+        "_playerscripts": {
+            "iconPath": "icons/legacy/PlayerScripts.png"
+        },
+        "_pluginguiservice": {
+            "iconPath": "icons/legacy/PluginGuiService.png"
+        },
+        "_pointlight": {
+            "iconPath": "icons/legacy/PointLight.png"
+        },
+        "_prismaticconstraint": {
+            "iconPath": "icons/legacy/PrismaticConstraint.png"
+        },
+        "_property": {
+            "iconPath": "icons/legacy/Property.png"
+        },
+        "_proximityprompt": {
+            "iconPath": "icons/legacy/PromimityPrompt.png"
+        },
+        "_publishservice": {
+            "iconPath": "icons/legacy/PublishService.png"
+        },
+        "_reference": {
+            "iconPath": "icons/legacy/Reference.png"
+        },
+        "_remoteevent": {
+            "iconPath": "icons/legacy/RemoteEvent.png"
+        },
+        "_remotefunction": {
+            "iconPath": "icons/legacy/RemoteFunction.png"
+        },
+        "_renderingtest": {
+            "iconPath": "icons/legacy/RenderingTest.png"
+        },
+        "_replicatedfirst": {
+            "iconPath": "icons/legacy/ReplicatedFirst.png"
+        },
+        "_replicatedscriptservice": {
+            "iconPath": "icons/legacy/ReplicatedScriptService.png"
+        },
+        "_replicatedstorage": {
+            "iconPath": "icons/legacy/ReplicatedStorage.png"
+        },
+        "_reverbsoundeffect": {
+            "iconPath": "icons/legacy/ReverbSoundEffect.png"
+        },
+        "_rigidconstraint": {
+            "iconPath": "icons/legacy/RigidConstraint.png"
+        },
+        "_robloxpluginguiservice": {
+            "iconPath": "icons/legacy/RobloxPluginGuiService.png"
+        },
+        "_rocketpropulsion": {
+            "iconPath": "icons/legacy/RocketPropulsion.png"
+        },
+        "_rodconstraint": {
+            "iconPath": "icons/legacy/RodConstraint.png"
+        },
+        "_ropeconstraint": {
+            "iconPath": "icons/legacy/RopeConstraint.png"
+        },
+        "_rotate": {
+            "iconPath": "icons/legacy/Rotate.png"
+        },
+        "_screengui": {
+            "iconPath": "icons/legacy/screengui.png"
+        },
+        "_script": {
+            "iconPath": "icons/legacy/Script.png"
+        },
+        "_scrollingframe": {
+            "iconPath": "icons/legacy/ScrollingFrame.png"
+        },
+        "_seat": {
+            "iconPath": "icons/legacy/Seat.png"
+        },
+        "_selected_workspace": {
+            "iconPath": "icons/legacy/Selected_Workspace.png"
+        },
+        "_selectionbox": {
+            "iconPath": "icons/legacy/SelectionBox.png"
+        },
+        "_selectionsphere": {
+            "iconPath": "icons/legacy/SelectionSphere.png"
+        },
+        "_serverscriptservice": {
+            "iconPath": "icons/legacy/ServerScriptService.png"
+        },
+        "_serverstorage": {
+            "iconPath": "icons/legacy/ServerStorage.png"
+        },
+        "_shirt": {
+            "iconPath": "icons/legacy/Shirt.png"
+        },
+        "_shirtgraphic": {
+            "iconPath": "icons/legacy/ShirtGraphic.png"
+        },
+        "_skinnedmeshpart": {
+            "iconPath": "icons/legacy/SkinnedMeshPart.png"
+        },
+        "_sky": {
+            "iconPath": "icons/legacy/Sky.png"
+        },
+        "_smoke": {
+            "iconPath": "icons/legacy/Smoke.png"
+        },
+        "_snap": {
+            "iconPath": "icons/legacy/Snap.png"
+        },
+        "_snippet": {
+            "iconPath": "icons/legacy/Snippet.png"
+        },
+        "_socialservice": {
+            "iconPath": "icons/legacy/SocialService.png"
+        },
+        "_sound": {
+            "iconPath": "icons/legacy/Sound.png"
+        },
+        "_soundeffect": {
+            "iconPath": "icons/legacy/SoundEffect.png"
+        },
+        "_soundgroup": {
+            "iconPath": "icons/legacy/SoundGroup.png"
+        },
+        "_soundservice": {
+            "iconPath": "icons/legacy/SoundService.png"
+        },
+        "_sparkles": {
+            "iconPath": "icons/legacy/Sparkles.png"
+        },
+        "_spawnlocation": {
+            "iconPath": "icons/legacy/SpawnLocation.png"
+        },
+        "_specialmesh": {
+            "iconPath": "icons/legacy/SpecialMesh.png"
+        },
+        "_spherehandleadornment": {
+            "iconPath": "icons/legacy/SphereHandleAdornment.png"
+        },
+        "_spotlight": {
+            "iconPath": "icons/legacy/Spotlight.png"
+        },
+        "_springconstraint": {
+            "iconPath": "icons/legacy/SpringConstraint.png"
+        },
+        "_standalonepluginscripts": {
+            "iconPath": "icons/legacy/StandalonePluginScripts.png"
+        },
+        "_startercharacterscripts": {
+            "iconPath": "icons/legacy/StarterCharacterScripts.png"
+        },
+        "_startergui": {
+            "iconPath": "icons/legacy/StarterGui.png"
+        },
+        "_starterpack": {
+            "iconPath": "icons/legacy/StarterPack.png"
+        },
+        "_starterplayer": {
+            "iconPath": "icons/legacy/StarterPlayer.png"
+        },
+        "_starterplayerscripts": {
+            "iconPath": "icons/legacy/StarterPlayerScripts.png"
+        },
+        "_struct": {
+            "iconPath": "icons/legacy/Struct.png"
+        },
+        "_sunrayseffect": {
+            "iconPath": "icons/legacy/SunRaysEffect.png"
+        },
+        "_surfaceappearance": {
+            "iconPath": "icons/legacy/SurfaceAppearance.png"
+        },
+        "_surfacegui": {
+            "iconPath": "icons/legacy/SurfaceGui.png"
+        },
+        "_surfacelight": {
+            "iconPath": "icons/legacy/SurfaceLight.png"
+        },
+        "_surfaceselection": {
+            "iconPath": "icons/legacy/SurfaceSelection.png"
+        },
+        "_swimcontroller": {
+            "iconPath": "icons/legacy/SwimController.png"
+        },
+        "_taskscheduller": {
+            "iconPath": "icons/legacy/TaskScheduller.png"
+        },
+        "_team": {
+            "iconPath": "icons/legacy/Team.png"
+        },
+        "_teams": {
+            "iconPath": "icons/legacy/Teams.png"
+        },
+        "_terrain": {
+            "iconPath": "icons/legacy/Terrain.png"
+        },
+        "_terraindetail": {
+            "iconPath": "icons/legacy/TerrainDetail.png"
+        },
+        "_testservice": {
+            "iconPath": "icons/legacy/TestService.png"
+        },
+        "_textbox": {
+            "iconPath": "icons/legacy/TextBox.png"
+        },
+        "_textboxservice": {
+            "iconPath": "icons/legacy/TextBoxService.png"
+        },
+        "_textbutton": {
+            "iconPath": "icons/legacy/TextButton.png"
+        },
+        "_textchannel": {
+            "iconPath": "icons/legacy/TextChannel.png"
+        },
+        "_textchatcommand": {
+            "iconPath": "icons/legacy/TextChatCommand.png"
+        },
+        "_textchatservice": {
+            "iconPath": "icons/legacy/TextChatService.png"
+        },
+        "_textlabel": {
+            "iconPath": "icons/legacy/TextLabel.png"
+        },
+        "_textstring": {
+            "iconPath": "icons/legacy/TextString.png"
+        },
+        "_texture": {
+            "iconPath": "icons/legacy/Texture.png"
+        },
+        "_tool": {
+            "iconPath": "icons/legacy/Tool.png"
+        },
+        "_torque": {
+            "iconPath": "icons/legacy/Torque.png"
+        },
+        "_torsionspringconstraint": {
+            "iconPath": "icons/legacy/TorsionSpringConstraint.png"
+        },
+        "_trail": {
+            "iconPath": "icons/legacy/Trail.png"
+        },
+        "_tremolosoundeffect": {
+            "iconPath": "icons/legacy/TremoloSoundEffect.png"
+        },
+        "_trusspart": {
+            "iconPath": "icons/legacy/TrussPart.png"
+        },
+        "_typeparameter": {
+            "iconPath": "icons/legacy/TypeParameter.png"
+        },
+        "_ugcvalidationservice": {
+            "iconPath": "icons/legacy/UGCValidationService.png"
+        },
+        "_uiaspectratioconstraint": {
+            "iconPath": "icons/legacy/UIAspectRatioConstraint.png"
+        },
+        "_uicorner": {
+            "iconPath": "icons/legacy/UICorner.png"
+        },
+        "_uigradient": {
+            "iconPath": "icons/legacy/UIGradient.png"
+        },
+        "_uigridlayout": {
+            "iconPath": "icons/legacy/UIGridLayout.png"
+        },
+        "_uilistlayout": {
+            "iconPath": "icons/legacy/UIListLayout.png"
+        },
+        "_uipadding": {
+            "iconPath": "icons/legacy/UIPadding.png"
+        },
+        "_uipagelayout": {
+            "iconPath": "icons/legacy/UIPageLayout.png"
+        },
+        "_uiscale": {
+            "iconPath": "icons/legacy/UIScale.png"
+        },
+        "_uisizeconstraint": {
+            "iconPath": "icons/legacy/UISizeConstraint.png"
+        },
+        "_uistroke": {
+            "iconPath": "icons/legacy/UIStroke.png"
+        },
+        "_uitablelayout": {
+            "iconPath": "icons/legacy/UITableLayout.png"
+        },
+        "_uitextsizeconstraint": {
+            "iconPath": "icons/legacy/UITextSizeConstraint.png"
+        },
+        "_unionoperation": {
+            "iconPath": "icons/legacy/UnionOperation.png"
+        },
+        "_unit": {
+            "iconPath": "icons/legacy/Unit'.png"
+        },
+        "_universalconstraint": {
+            "iconPath": "icons/legacy/UniversalConstraint.png"
+        },
+        "_unreliableremoteevent": {
+            "iconPath": "icons/legacy/UnreliableRemoteEvent.png"
+        },
+        "_updateavaible": {
+            "iconPath": "icons/legacy/UpdateAvaible.png"
+        },
+        "_userservice": {
+            "iconPath": "icons/legacy/UserService.png"
+        },
+        "_value": {
+            "iconPath": "icons/legacy/Value.png"
+        },
+        "_variable": {
+            "iconPath": "icons/legacy/Variable.png"
+        },
+        "_vectorforce": {
+            "iconPath": "icons/legacy/VectorForce.png"
+        },
+        "_vehicleseat": {
+            "iconPath": "icons/legacy/VehicleSeat.png"
+        },
+        "_videoframe": {
+            "iconPath": "icons/legacy/VideoFrame.png"
+        },
+        "_viewportframe": {
+            "iconPath": "icons/legacy/ViewportFrame.png"
+        },
+        "_virtualuser": {
+            "iconPath": "icons/legacy/VirtualUser.png"
+        },
+        "_voicechannel": {
+            "iconPath": "icons/legacy/VoiceChannel.png"
+        },
+        "_voicechat": {
+            "iconPath": "icons/legacy/VoiceChat.png"
+        },
+        "_voicechatservice": {
+            "iconPath": "icons/legacy/VoiceChatService.png"
+        },
+        "_vrservice": {
+            "iconPath": "icons/legacy/VRService.png"
+        },
+        "_wedgepart": {
+            "iconPath": "icons/legacy/WedgePart.png"
+        },
+        "_weld": {
+            "iconPath": "icons/legacy/Weld.png"
+        },
+        "_weldconstraint": {
+            "iconPath": "icons/legacy/WeldConstraint.png"
+        },
+        "_wire": {
+            "iconPath": "icons/legacy/Wire.png"
+        },
+        "_wireframehandleadornment": {
+            "iconPath": "icons/legacy/WireframeHandleAdornment.png"
+        },
+        "_workspace": {
+            "iconPath": "icons/legacy/Workspace.png"
+        },
+        "_worldmodel": {
+            "iconPath": "icons/legacy/WorldModel.png"
+        },
+        "_wraplayer": {
+            "iconPath": "icons/legacy/WrapLayer.png"
+        },
+        "_wraptarget": {
+            "iconPath": "icons/legacy/WrapTarget.png"
+        }
+    },
+    "file": "_file",
+    "folder": "_folder",
+    "folderNames": {
+        "Workspace": "_workspace",
+        "Players": "_players",
+        "Lighting": "_lighting",
+        "MaterialService": "_materialservice",
+        "NetworkClient": "_networkclient",
+        "ReplicatedFirst": "_replicatedfirst",
+        "ReplicatedStorage": "_replicatedstorage",
+        "ServerScriptService": "_serverscriptservice",
+        "ServerStorage": "_serverstorage",
+        "StarterGui": "_startergui",
+        "StarterPack": "_starterpack",
+        "StarterPlayer": "_starterplayer",
+        "Teams": "_teams",
+        "SoundService": "_soundservice",
+        "TextChatService": "_textchatservice",
+        "StarterPlayerScripts": "_starterplayerscripts",
+        "StarterCharacterScripts": "_startercharacterscripts",
+        "Player": "_player",
+        "Frame": "_frame",
+        "screengui": "_screengui",
+        "BillboardGui": "_billboardgui",
+        "CanvasGroup": "_canvasgroup",
+        "ScrollingFrame": "_scrollingframe",
+        "SurfaceGui": "_surfacegui",
+        "Model": "_model",
+        "ViewportFrame": "_viewportframe"
+    },
+    "folderNamesExpanded": {
+        "Workspace": "_workspace",
+        "Players": "_players",
+        "Lighting": "_lighting",
+        "MaterialService": "_materialservice",
+        "NetworkClient": "_networkclient",
+        "ReplicatedFirst": "_replicatedfirst",
+        "ReplicatedStorage": "_replicatedstorage",
+        "ServerScriptService": "_serverscriptservice",
+        "ServerStorage": "_serverstorage",
+        "StarterGui": "_startergui",
+        "StarterPack": "_starterpack",
+        "StarterPlayer": "_starterplayer",
+        "Teams": "_teams",
+        "SoundService": "_soundservice",
+        "TextChatService": "_textchatservice",
+        "StarterPlayerScripts": "_starterplayerscripts",
+        "StarterCharacterScripts": "_startercharacterscripts",
+        "Player": "_player",
+        "Frame": "_frame",
+        "screengui": "_screengui",
+        "BillboardGui": "_billboardgui",
+        "CanvasGroup": "_canvasgroup",
+        "ScrollingFrame": "_scrollingframe",
+        "SurfaceGui": "_surfacegui",
+        "Model": "_model",
+        "ViewportFrame": "_viewportframe"
+    },
+    "fileNames": {
+        "ImageLabel": "_imagelabel",
+        "ImageButton": "_imagebutton",
+        "UIListLayout": "_uilistlayout",
+        "UIAspectRatioConstraint": "_uiaspectratioconstraint",
+        "TextLabel": "_textlabel",
+        "TextBox": "_textbox",
+        "UIGradient": "_uigradient",
+        "UIGridLayout": "_uigridlayout",
+        "UIPadding": "_uipadding",
+        "UIPageLayout": "_uipagelayout",
+        "UIScale": "_uiscale",
+        "UITableLayout": "_uitablelayout",
+        "UITextSizeConstraint": "_uitextsizeconstraint",
+        "ClientReplicator": "_clientreplicator",
+        "Atmosphere": "_atmosphere",
+        "Sky": "_sky",
+        "BloomEffect": "_bloomeffect",
+        "BlurEffect": "_blureffect",
+        "ColorCorrectionEffect": "_colorcorrectioneffect",
+        "DepthOfFieldEffect": "_depthoffieldeffect",
+        "SunRaysEffect": "_sunrayseffect",
+        "Clouds": "_clouds",
+        "ClickDetector": "_clickdetector",
+        "Decal": "_decal",
+        "Dialog": "_dialog",
+        "DialogChoice": "_dialogchoice",
+        "MaterialVariant": "_materialvariant",
+        "PromimityPrompt": "_proximityprompt",
+        "SurfaceAppearance": "_surfaceappearance",
+        "TerrainDetail": "_terraindetail",
+        "Texture": "_texture",
+        "ArcHandles": "_archandles",
+        "BoxHandleAdornment": "_boxhandleadornment",
+        "ConeHandleAdornment": "_conehandleadornment",
+        "CylinderHandleAdornment": "_cylinderhandleadornment",
+        "Handles": "_handles",
+        "ImageHandleAdornment": "_imagehandleadornment",
+        "LineHandleAdorment": "_linehandleadorment",
+        "PathfindingLink": "_pathfindinglink",
+        "PathfindingModifier": "_pathfindingmodifier",
+        "PathfindingService": "_pathfindingservice",
+        "SelectionBox": "_selectionbox",
+        "SelectionSphere": "_selectionsphere",
+        "SphereHandleAdornment": "_spherehandleadornment",
+        "SurfaceSelection": "_surfaceselection",
+        "WireframeHandleAdornment": "_wireframehandleadornment",
+        "AdGui": "_adgui",
+        "Animation": "_animation",
+        "AnimationController": "_animationcontroller",
+        "Animator": "_animator",
+        "Bone": "_bone",
+        "FaceControls": "_facecontrols",
+        "IKControl": "_ikcontrol",
+        "Motor6D": "_motor6d",
+        "Accessory": "_accessory",
+        "AirController": "_aircontroller",
+        "BodyColors": "_bodycolors",
+        "ClimbController": "_climbcontroller",
+        "ForceField": "_forcefield",
+        "GroundController": "_groundcontroller",
+        "Humanoid": "_humanoid",
+        "HumanoidDescription": "_humanoiddescription",
+        "Pants": "_pants",
+        "Shirt": "_shirt",
+        "ShirtGraphic": "_shirtgraphic",
+        "SwimController": "_swimcontroller",
+        "AlignOrientation": "_alignorientation",
+        "AngularVelocity": "_angularvelocity",
+        "Attachment": "_attachment",
+        "BallSocketConstraint": "_ballsocketconstraint",
+        "CylindricalConstraint": "_cylindricalconstraint",
+        "HingeConstraint": "_hingeconstraint",
+        "LinearVelocity": "_linearvelocity",
+        "LineForce": "_lineforce",
+        "NoCollisionConstraint": "_nocollisionconstraint",
+        "PlaneConstraint": "_planeconstraint",
+        "PrismaticConstraint": "_prismaticconstraint",
+        "RigidConstraint": "_rigidconstraint",
+        "RodConstraint": "_rodconstraint",
+        "RopeConstraint": "_ropeconstraint",
+        "SpringConstraint": "_springconstraint",
+        "Torque": "_torque",
+        "TorsionSpringConstraint": "_torsionspringconstraint",
+        "UniversalConstraint": "_universalconstraint",
+        "VectorForce": "_vectorforce",
+        "WeldConstraint": "_weldconstraint",
+        "Beam": "_beam",
+        "Explosion": "_explosion",
+        "Fire": "_fire",
+        "Highlight": "_highlight",
+        "ParticleEmitter": "_particleemitter",
+        "Smoke": "_smoke",
+        "Sparkles": "_sparkles",
+        "Trail": "_trail",
+        "WrapLayer": "_wraplayer",
+        "WrapTarget": "_wraptarget",
+        "UICorner": "_uicorner",
+        "UISizeConstraint": "_uisizeconstraint",
+        "UIStroke": "_uistroke",
+        "VideoFrame": "_videoframe",
+        "Seat": "_seat",
+        "SpawnLocation": "_spawnlocation",
+        "Team": "_team",
+        "Tool": "_tool",
+        "VehicleSeat": "_vehicleseat",
+        "PointLight": "_pointlight",
+        "Spotlight": "_spotlight",
+        "SurfaceLight": "_surfacelight",
+        "LocalizationTable": "_localizationtable",
+        "LocalizationService": "_localizationservice",
+        "BlockMesh": "_blockmesh",
+        "CharacterMesh": "_charactermesh",
+        "SpecialMesh": "_specialmesh",
+        "CornerWedgePart": "_cornerwedgepart",
+        "MeshPart": "_meshpart",
+        "MeshParts": "_meshparts",
+        "Part": "_part",
+        "TrussPart": "_trusspart",
+        "WedgePart": "_wedgepart",
+        "Actor": "_actor",
+        "BindableEvent": "_bindableevent",
+        "BindableFunction": "BindableFunction",
+        "RemoteEvent": "_remoteevent",
+        "RemoteFunction": "_remotefunction",
+        "UnreliableRemoteEvent": "_unreliableremoteevent",
+        "AudioAnalyzer": "_audioanalyzer",
+        "AudioChorus": "_audiochorus",
+        "AudioCompressor": "_audiocompressor",
+        "AudioDeviceInput": "_audiodeviceinput",
+        "AudioDeviceOutput": "_audiodeviceoutput",
+        "AudioDistortion": "_audiodistortion",
+        "AudioEcho": "_audioecho",
+        "AudioEmitter": "_audioemitter",
+        "AudioEqualizer": "_audioequalizer",
+        "AudioFader": "_audiofader",
+        "AudioFlanger": "_audioflanger",
+        "AudioListener": "_audiolistener",
+        "AudioPitchShifter": "_audiopitchshifter",
+        "AudioPlayer": "_audioplayer",
+        "AudioReverb": "_audioreverb",
+        "ChorusSoundEffect": "_chorussoundeffect",
+        "CompressorSoundEffect": "_compressorsoundeffect",
+        "DistortionSoundEffect": "_distortionsoundeffect",
+        "EchoSoundEffect": "_echosoundeffect",
+        "EqualizerSoundEffect": "_equalizersoundeffect",
+        "FlangeSoundEffect": "_flangesoundeffect",
+        "PitchShiftSoundEffect": "_pitchshiftsoundeffect",
+        "ReverbSoundEffect": "_reverbsoundeffect",
+        "Sound": "_sound",
+        "SoundGroup": "_soundgroup",
+        "TremoloSoundEffect": "_tremolosoundeffect",
+        "Wire": "_wire",
+        "TextChannel": "_textchannel",
+        "TextChatCommand": "_textchatcommand",
+        "Camera": "_camera",
+        "Configuration": "_configuration",
+        "Weld": "_weld",
+        "BoolValue": "_boolvalue",
+        "BrickColorValue": "_brickcolorvalue",
+        "CFrameValue": "_cframevalue",
+        "Terrain": "_terrain",
+        "Backpack": "_backpack",
+        "PlayerScripts": "_playerscripts"
+    },
+    "fileExtensions": {
+        "script": "_script",
+        "localscript": "_localscript",
+        "modulescript": "_modulescript"
+    }
+}

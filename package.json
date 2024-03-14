@@ -1,0 +1,27 @@
+{
+  "name": "roblox-studio-icons",
+  "displayName": "Roblox Studio Icons",
+  "version": "0.0.2",
+  "description": "Current Roblox Studio icons",
+  "icon": "icons/logo.png",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Roblox",
+    "Rojo"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "roblox-studio-icons",
+        "label": "Roblox Studio Icons",
+        "path": "./Roblox-Studio-Icons.json"
+      }
+    ]
+  },
+  "publisher": "RobloxStudioIcons"
+}
