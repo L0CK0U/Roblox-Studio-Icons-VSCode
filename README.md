@@ -7,4 +7,6 @@
 ![Screenshot](icons/Example.png)
 
 ## License
+This extension is released under the MIT License.
+
 All icons are property of Roblox Corporation.
