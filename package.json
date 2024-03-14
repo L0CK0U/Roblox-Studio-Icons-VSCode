@@ -23,5 +23,9 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L0CK0U/Roblox-Studio-Icons-VSCode.git"
+  },
   "publisher": "RobloxStudioIcons"
 }
