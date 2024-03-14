@@ -1,4 +1,4 @@
-# Roblox Studio Icons for Visual Studio Code [Atualizado]
+# Roblox Studio Icons for Visual Studio Code [Updated]
 
 <p align="center">
     <img src="./icons/logo.png" />
