@@ -1,7 +1,7 @@
 {
   "name": "roblox-studio-icons",
   "displayName": "Roblox Studio Icons",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Current Roblox Studio icons",
   "icon": "icons/logo.png",
   "engines": {

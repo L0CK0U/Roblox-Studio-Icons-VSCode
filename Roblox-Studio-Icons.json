@@ -1059,8 +1059,8 @@
         "PlayerScripts": "_playerscripts"
     },
     "fileExtensions": {
-        "script": "_script",
-        "localscript": "_localscript",
-        "modulescript": "_modulescript"
+        "script.lua": "_script",
+        "localscript.lua": "_localscript",
+        "modulescript.lua": "_modulescript"
     }
 }
